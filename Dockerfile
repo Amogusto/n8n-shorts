@@ -1,5 +1,5 @@
 # ----- Dockerfile -----
-FROM n8nio/n8n:1.49.0-ubuntu   # <-- ключевое отличие
+FROM n8nio/n8n:1.49.0-ubuntu
 
 USER root
 
